@@ -73,7 +73,8 @@ python main.py
 
 
 ## Screen Shot
-![screen shot](assets/screenshot.png)
+![screen shot](.assets/screenshot.png)
 
 © 2025 Shantiya — Advanced Python Download Manager with Multi-Threaded Architecture and PyQt6 Visualization.
+
 
